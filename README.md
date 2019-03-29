@@ -11,8 +11,8 @@ UI组件第三题XML
 
 字体颜色（有红色和黑色这2个选项），点击之后设置测试文本的字体
 
-![image]()
+![image](https://github.com/zhanglei742/UI_XML/blob/master/app/src/readmepicture/3-1.png)
 
-![image]()
+![image](https://github.com/zhanglei742/UI_XML/blob/master/app/src/readmepicture/3-2.png)
 
-![image]()
+![image](https://github.com/zhanglei742/UI_XML/blob/master/app/src/readmepicture/3-3.png)
